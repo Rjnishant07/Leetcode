@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rjnishant07/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rjnishant07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Rjnishant07/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rjnishant07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rjnishant07/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rjnishant07/Leetcode/tree/master/0013-roman-to-integer) |
 ## Number Theory
 |  |
