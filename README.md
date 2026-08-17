@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rjnishant07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Rjnishant07/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Rjnishant07/Leetcode/tree/master/0292-nim-game) |
+| [0509-fibonacci-number](https://github.com/Rjnishant07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rjnishant07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rjnishant07/Leetcode/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Rjnishant07/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Rjnishant07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rjnishant07/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rjnishant07/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rjnishant07/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rjnishant07/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
