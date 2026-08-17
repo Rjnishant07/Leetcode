@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rjnishant07/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rjnishant07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Rjnishant07/Leetcode/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/Rjnishant07/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rjnishant07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rjnishant07/Leetcode/tree/master/0877-stone-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Rjnishant07/Leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Rjnishant07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rjnishant07/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
