@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rjnishant07/Leetcode/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Rjnishant07/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rjnishant07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3115-maximum-prime-difference](https://github.com/Rjnishant07/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rjnishant07/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rjnishant07/Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rjnishant07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rjnishant07/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3115-maximum-prime-difference](https://github.com/Rjnishant07/Leetcode/tree/master/3115-maximum-prime-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rjnishant07/Leetcode/tree/master/0258-add-digits) |
+| [3115-maximum-prime-difference](https://github.com/Rjnishant07/Leetcode/tree/master/3115-maximum-prime-difference) |
 ## Brainteaser
 |  |
 | ------- |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rjnishant07/Leetcode/tree/master/0509-fibonacci-number) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/Rjnishant07/Leetcode/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
